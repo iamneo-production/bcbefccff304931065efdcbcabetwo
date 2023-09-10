@@ -106,10 +106,20 @@ body {
   
   /* Player turn space */
   #print {
+    box-sizing: border-box;
+    width: 95px;
+    height: 40px;
+    border: 1px solid rgb(98, 99, 100);
+    margin-left: auto;
+    border-radius: 8px;
     font-family: Verdana,
       Geneva, Tahoma, sans-serif;
-    color: rgb(97, 98, 98);
-    font-size: 20px;
+  
+    background-color: whitesmoke;
+    color: rgb(59, 60, 60);
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
   }
   
   /* Main Container */
