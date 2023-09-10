@@ -92,14 +92,14 @@ body {
     box-sizing: border-box;
     width: 95px;
     height: 40px;
-    border: 1px solid dodgerblue;
+    border: 1px solid rgb(98, 99, 100);
     margin-left: auto;
     border-radius: 8px;
     font-family: Verdana,
       Geneva, Tahoma, sans-serif;
   
     background-color: whitesmoke;
-    color: dodgerblue;
+    color: rgb(59, 60, 60);
     font-size: 20px;
     cursor: pointer;
   }
@@ -108,7 +108,7 @@ body {
   #print {
     font-family: Verdana,
       Geneva, Tahoma, sans-serif;
-    color: dodgerblue;
+    color: rgb(97, 98, 98);
     font-size: 20px;
   }
   
